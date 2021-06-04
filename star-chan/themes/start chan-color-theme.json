@@ -70,7 +70,16 @@
 		"tab.inactiveBackground": "#1C1E26",
 		"tab.hoverBackground": "#d811595a",
 		"tab.hoverForeground": "#ffff",
-		"tab.hoverBorder": "#f6e5eb"
+		"tab.hoverBorder": "#f6e5eb",
+
+		//Scrollbar
+		"scrollbarSlider.background": "#17545a66",
+		"scrollbarSlider.hoverBackground": "#8f2d5664",
+
+		//Widgets
+		"widget.shadow": "#17545a66",
+		"editorWidget.background": "#1C1E26",
+		"pickerGroup.border": "#d81159"
 
 	 
 	},
