@@ -18,12 +18,12 @@
 		"activityBar.activeBackground": "#7a609f",
 		"activityBar.background": "#1C1E26",
 		"activityBar.inactiveForeground": "#ffffff59",
-		"activityBar.border": "#4b8686",
+		"activityBar.border": "#1C1E26",
 
 		//Side Bar
 		"sideBar.background": "#1C1E26",
-		"sideBarSectionHeader.background": "#2e313b83",
-		"sideBar.border": "#d1caca32",
+		"sideBarSectionHeader.background": "#1C1E26",
+		"sideBar.border": "#1C1E26",
 		"list.inactiveSelectionBackground": "#7776bc46",
 		"list.hoverBackground": "#011627",
 		"list.activeSelectionBackground": "#6f3168",
@@ -50,9 +50,18 @@
 		"button.secondaryBackground": "#27a99d95",
 		"button.secondaryHoverBackground": "#d81159df",
 
-		
+		//Inputs
+		"input.background": "#1C1E26",
+		"inputOption.activeBackground": "#1C1E26",
 
- 
+		//Panel(Terminal)
+		"panel.background": "#282B34",
+		"panelTitle.activeBorder": "#d81159",
+		"terminal.selectionBackground": "#d811591e",
+		"terminalCursor.foreground": "#bc7fcd48",
+		"terminalCursor.background": "#bc7fcd48",
+		"badge.background": "#d81159"
+	 
 	},
 	"tokenColors": [
 		{
