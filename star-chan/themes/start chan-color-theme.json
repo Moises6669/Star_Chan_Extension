@@ -36,6 +36,12 @@
 		"statusBarItem.hoverBackground": "#d81159",
 		"statusBar.noFolderBackground": "#154747",
 		
+		//Title Bar
+		"titleBar.activeBackground": "#1C1E26",
+		"titleBar.inactiveBackground": "#1c1e26d7",
+		"menubar.selectionForeground": "#ffbc42",
+		"menubar.selectionBackground": "#f528de1a",
+		"menu.background": "#1C1E26",
 		
  
 	},
