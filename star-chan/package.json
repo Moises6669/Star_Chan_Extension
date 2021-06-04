@@ -3,7 +3,8 @@
     "displayName": "StarChan",
     "description": "The Vs code theme",
     "version": "1.0.0",
-    "publisher": "Nobody",
+    "publisher": "StarChan",
+    "icon": "img/StarChan.jpg",
     "repository": {
         "type": "git",
         "url": "https://github.com/Moises6669/Star_Chan_Extension"
