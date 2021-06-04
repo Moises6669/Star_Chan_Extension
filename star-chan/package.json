@@ -1,8 +1,22 @@
 {
     "name": "star-chan",
-    "displayName": "star-chan",
-    "description": "",
-    "version": "0.0.1",
+    "displayName": "StarChan",
+    "description": "The Vs code theme",
+    "version": "1.0.0",
+    "publisher": "Nobody",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Moises6669/Star_Chan_Extension"
+    },
+    "keywords": [
+        "theme",
+        "anime",
+        "Anime theme",
+        "StarChan",
+        "starchan",
+        "theme dark",
+        "night theme"
+    ],
     "engines": {
         "vscode": "^1.56.0"
     },
