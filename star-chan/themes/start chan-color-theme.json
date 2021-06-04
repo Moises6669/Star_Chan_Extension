@@ -6,15 +6,31 @@
 		"foreground": "#d6eadf",
 		"editor.lineHighlightBackground": "#8076c21f",
 		"editor.foreground": "#edf6f9",
-		"activityBarBadge.background": "#007acc",
+		"activityBarBadge.background": "#ba0f97",
 		"sideBarTitle.foreground": "#fff8f8",
-		"focusBorder": "#011627",
+		//General
+		"focusBorder": "#bde7e250",
 		"progressBar.background": "#f14164",
 		"selection.background": "#892ab46e",
 		"scrollbar.shadow": "#1cf7d8b1",
+
+		//Activity Bar
 		"activityBar.activeBackground": "#7a609f",
 		"activityBar.background": "#1C1E26",
-		"activityBar.inactiveForeground": "#ffffff50"
+		"activityBar.inactiveForeground": "#ffffff59",
+		"activityBar.border": "#4b8686",
+
+		//Side Bar
+		"sideBar.background": "#1C1E26",
+		"sideBarSectionHeader.background": "#2e313b83",
+		"sideBar.border": "#1f565c",
+		"list.inactiveSelectionBackground": "#7776bc46",
+		"list.hoverBackground": "#011627",
+		"list.activeSelectionBackground": "#6f3168",
+		"list.dropBackground": "#1a222c",
+		"list.highlightForeground": "#d81159",
+		"list.focusBackground": "#0b1b26"
+ 
 	},
 	"tokenColors": [
 		{
