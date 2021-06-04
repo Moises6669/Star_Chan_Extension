@@ -55,12 +55,23 @@
 		"inputOption.activeBackground": "#1C1E26",
 
 		//Panel(Terminal)
-		"panel.background": "#282B34",
+		"panel.background": "#1C1E26",
 		"panelTitle.activeBorder": "#d81159",
 		"terminal.selectionBackground": "#d811591e",
 		"terminalCursor.foreground": "#bc7fcd48",
 		"terminalCursor.background": "#bc7fcd48",
-		"badge.background": "#d81159"
+		"badge.background": "#d81159",
+
+		//Tabs
+		"editorGroupHeader.tabsBackground": "#1C1E26",
+		"editorGroupHeader.tabsBorder": "#8f2d56",
+		"tab.activeForeground": "#7fd8be",
+		"tab.activeBackground": "#000000",
+		"tab.inactiveBackground": "#1C1E26",
+		"tab.hoverBackground": "#d811595a",
+		"tab.hoverForeground": "#ffff",
+		"tab.hoverBorder": "#f6e5eb"
+
 	 
 	},
 	"tokenColors": [
