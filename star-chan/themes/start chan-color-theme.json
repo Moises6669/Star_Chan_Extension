@@ -23,13 +23,20 @@
 		//Side Bar
 		"sideBar.background": "#1C1E26",
 		"sideBarSectionHeader.background": "#2e313b83",
-		"sideBar.border": "#1f565c",
+		"sideBar.border": "#d1caca32",
 		"list.inactiveSelectionBackground": "#7776bc46",
 		"list.hoverBackground": "#011627",
 		"list.activeSelectionBackground": "#6f3168",
 		"list.dropBackground": "#1a222c",
 		"list.highlightForeground": "#d81159",
-		"list.focusBackground": "#0b1b26"
+		"list.focusBackground": "#0b1b26",
+
+		//Status Bar
+		"statusBar.background": "#1C1E26",
+		"statusBarItem.hoverBackground": "#d81159",
+		"statusBar.noFolderBackground": "#154747",
+		
+		
  
 	},
 	"tokenColors": [
