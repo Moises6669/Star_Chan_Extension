@@ -42,7 +42,16 @@
 		"menubar.selectionForeground": "#ffbc42",
 		"menubar.selectionBackground": "#f528de1a",
 		"menu.background": "#1C1E26",
+
+		//Buttons
+		"button.background": "#d81159df",
+		"button.hoverBackground": "#27a99d95",
+		"textLink.foreground": "#ffbc42",
+		"button.secondaryBackground": "#27a99d95",
+		"button.secondaryHoverBackground": "#d81159df",
+
 		
+
  
 	},
 	"tokenColors": [
