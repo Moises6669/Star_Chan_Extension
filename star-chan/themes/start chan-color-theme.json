@@ -1,5 +1,5 @@
 {
-	"name": "start chan",
+	"name": "StarChan",
 	"type": "dark",
 	"colors": {
 		"editor.background": "#1C1E26",
@@ -79,10 +79,29 @@
 		//Widgets
 		"widget.shadow": "#17545a66",
 		"editorWidget.background": "#1C1E26",
-		"pickerGroup.border": "#d81159"
+		"pickerGroup.border": "#d81159",
 
+		//Notifications
+		"notificationCenterHeader.background": "#1C1E26",
+
+
+		//Editor
+		"editorLineNumber.activeForeground": "#ffdd1f",
+		"editorCursor.foreground": "#cf4d6f",
+		"editor.selectionBackground": "#2f3430",
+		"editorIndentGuide.background": "#efe5dc85",
+		"editorError.foreground": "#f26510",
+		"editorWarning.foreground": "#ffbc42",
+		"editorGutter.modifiedBackground": "#59daff",
+		"editorGutter.addedBackground": "#7fb800",
+		"editorGutter.deletedBackground": "#c32f27"
 	 
 	},
+	
+	"EDITOR":{
+		
+	},
+
 	"tokenColors": [
 		{
 			"name": "Comment",
